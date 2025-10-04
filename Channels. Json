@@ -1,0 +1,32 @@
+[
+  {
+    "name": "NASA TV",
+    "category": "Education",
+    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+    "icon": "🚀"
+  },
+  {
+    "name": "France 24 English",
+    "category": "News", 
+    "url": "https://www.youtube.com/watch?v=h3MuIUNCCzI",
+    "icon": "🇫🇷"
+  },
+  {
+    "name": "Al Jazeera English",
+    "category": "News",
+    "url": "https://www.youtube.com/watch?v=ewvP4ZMzj8A",
+    "icon": "📺"
+  },
+  {
+    "name": "DW Documentary",
+    "category": "Education",
+    "url": "https://www.youtube.com/watch?v=6M9zr_gG7pA",
+    "icon": "🇩🇪"
+  },
+  {
+    "name": "BBC News Live",
+    "category": "News",
+    "url": "https://www.youtube.com/watch?v=w1C4nM4pB7c",
+    "icon": "🇬🇧"
+  }
+]
