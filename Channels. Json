@@ -1,11 +1,5 @@
 [
   {
-    "name": "ryan English",
-    "category": "News",
-    "url": "https://www.youtube.com/watch?v=h3MuIUNCCzI",
-    "icon": "🇫🇷"
-  },
-  {
     "name": "Al Jazeera English",
     "category": "News",
     "url": "https://www.youtube.com/watch?v=ewvP4ZMzj8A",
@@ -334,11 +328,5 @@
     "category": "General",
     "url": "https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8",
     "icon": "🇲🇷"
-  },
-  {
-    "name": "farou",
-    "category": "General",
-    "url": "https://www.facebook.com/share/v/1BDiu8es1A/",
-    "icon": "📺"
   }
 ]
