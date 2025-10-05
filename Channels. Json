@@ -1,13 +1,7 @@
 [
   {
-    "name": "Rahmed TV",
-    "category": "Education",
-    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-    "icon": "🚀"
-  },
-  {
     "name": "ryan English",
-    "category": "News", 
+    "category": "News",
     "url": "https://www.youtube.com/watch?v=h3MuIUNCCzI",
     "icon": "🇫🇷"
   },
