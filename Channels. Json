@@ -1,11 +1,5 @@
 [
   {
-    "name": "National Geographic",
-    "category": "Education",
-    "url": "https://www.youtube.com/watch?v=6M9zr_gG7pA",
-    "icon": "🌍"
-  },
-  {
     "name": "TED Talks",
     "category": "Education",
     "url": "https://www.youtube.com/watch?v=5MgBikgcWnY",
