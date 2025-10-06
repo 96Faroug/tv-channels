@@ -1,11 +1,5 @@
 [
   {
-    "name": "BBC News Live",
-    "category": "News",
-    "url": "https://www.youtube.com/watch?v=w1C4nM4pB7c",
-    "icon": "🇬🇧"
-  },
-  {
     "name": "Sky News Live",
     "category": "News",
     "url": "https://www.youtube.com/watch?v=9Auq9mYxFEE",
