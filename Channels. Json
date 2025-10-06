@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Sky Sport",
+    "category": "Sport",
+    "url": "https://www.capoplay.net/bundesliga1.php",
+    "icon": "📺"
+  }
+]
