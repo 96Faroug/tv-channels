@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Al Jazeera English",
+    "category": "News",
+    "url": "https://www.youtube.com/watch?v=ewvP4ZMzj8A",
+    "icon": "📺"
+  },
+  {
+    "name": "DW Documentary",
+    "category": "Education",
+    "url": "https://www.youtube.com/watch?v=6M9zr_gG7pA",
+    "icon": "🇩🇪"
+  },
+  {
+    "name": "BBC News Live",
+    "category": "News",
+    "url": "https://www.youtube.com/watch?v=w1C4nM4pB7c",
+    "icon": "🇬🇧"
+  },
+  {
+    "name": "CNN Live",
+    "category": "News",
+    "url": "https://www.youtube.com/watch?v=w1C4nM4pB7c",
+    "icon": "🇺🇸"
+  },
+  {
+    "name": "Sky News Live",
+    "category": "News",
+    "url": "https://www.youtube.com/watch?v=9Auq9mYxFEE",
+    "icon": "📡"
+  },
+  {
+    "name": "National Geographic",
+    "category": "Education",
+    "url": "https://www.youtube.com/watch?v=6M9zr_gG7pA",
+    "icon": "🌍"
+  },
+  {
+    "name": "TED Talks",
+    "category": "Education",
+    "url": "https://www.youtube.com/watch?v=5MgBikgcWnY",
+    "icon": "💡"
+  },
+  {
+    "name": "Bloomberg Quicktake",
+    "category": "News",
+    "url": "https://www.youtube.com/watch?v=9Auq9mYxFEE",
+    "icon": "💹"
+  },
+  {
+    "name": "ABC News Live",
+    "category": "News",
+    "url": "https://www.youtube.com/watch?v=w_Ma8oQLmSM",
+    "icon": "🇺🇸"
+  },
+  {
+    "name": "Reuters",
+    "category": "News",
+    "url": "https://www.youtube.com/watch?v=w1C4nM4pB7c",
+    "icon": "📰"
+  },
+  {
+    "name": "CBC News",
+    "category": "News",
+    "url": "https://www.youtube.com/watch?v=w_Ma8oQLmSM",
+    "icon": "🇨🇦"
+  },
+  {
+    "name": "Arirang TV",
+    "category": "News",
+    "url": "https://www.youtube.com/watch?v=5MgBikgcWnY",
+    "icon": "🇰🇷"
+  },
+  {
+    "name": "CGTN Live",
+    "category": "News",
+    "url": "https://www.youtube.com/watch?v=ewvP4ZMzj8A",
+    "icon": "🇨🇳"
+  },
+  {
+    "name": "الأولى",
+    "category": "General",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
+    "icon": "🇸🇦"
+  },
+  {
+    "name": "الإخبارية",
+    "category": "News",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
+    "icon": "📰"
+  },
+  {
+    "name": "القرآن الكريم",
+    "category": "Religious",
+    "url": "https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=11111111",
+    "icon": "📖"
+  },
+  {
+    "name": "السنة النبوية",
+    "category": "Religious",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+    "icon": "🕌"
+  },
+  {
+    "name": "السعودية",
+    "category": "General",
+    "url": "https://aloula.faulio.com/storage/mediagallery/24/33/small_de5526f31108ed0715edbf837a2be14b04a6001d.png",
+    "icon": "🇸🇦"
+  },
+  {
+    "name": "السعودية الرياضية",
+    "category": "Sports",
+    "url": "",
+    "icon": "⚽"
+  },
+  {
+    "name": "MBC 1",
+    "category": "Entertainment",
+    "url": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8",
+    "icon": "📺"
+  },
+  {
+    "name": "MBC مصر",
+    "category": "Entertainment",
+    "url": "https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8",
+    "icon": "🇪🇬"
+  },
+  {
+    "name": "روتانا خليجية",
+    "category": "Entertainment",
+    "url": "",
+    "icon": "🎵"
+  },
+  {
+    "name": "الجزيرة الإخبارية",
+    "category": "News",
+    "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+    "icon": "📺"
+  },
+  {
+    "name": "العربية",
+    "category": "News",
+    "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+    "icon": "📰"
+  },
+  {
+    "name": "سكاي نيوز عربية",
+    "category": "News",
+    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+    "icon": "🌍"
+  },
+  {
+    "name": "بي بي سي عربي",
+    "category": "News",
+    "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
+    "icon": "🇬🇧"
+  },
+  {
+    "name": "فرنسا 24",
+    "category": "News",
+    "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
+    "icon": "🇫🇷"
+  },
+  {
+    "name": "DW عربية",
+    "category": "News",
+    "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
+    "icon": "🇩🇪"
+  },
+  {
+    "name": "TRT العربية",
+    "category": "News",
+    "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
+    "icon": "🇹🇷"
+  },
+  {
+    "name": "روسيا اليوم",
+    "category": "News",
+    "url": "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8",
+    "icon": "🇷🇺"
+  },
+  {
+    "name": "CGTN العربية",
+    "category": "News",
+    "url": "https://livear.cgtn.com/1000a/prog_index.m3u8",
+    "icon": "🇨🇳"
+  },
+  {
+    "name": "الميادين",
+    "category": "News",
+    "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8",
+    "icon": "🌍"
+  },
+  {
+    "name": "العراقية",
+    "category": "General",
+    "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8",
+    "icon": "🇮🇶"
+  },
+  {
+    "name": "الشرقية",
+    "category": "Entertainment",
+    "url": "https://5d94523502c2d.streamlock.net/home/mystream/chunklist.m3u8",
+    "icon": "📺"
+  },
+  {
+    "name": "الأردنية",
+    "category": "General",
+    "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
+    "icon": "🇯🇴"
+  },
+  {
+    "name": "رؤيا",
+    "category": "General",
+    "url": "https://royatv-live.daioncdn.net/royatv/royatv.m3u8",
+    "icon": "📺"
+  },
+  {
+    "name": "المغرب الأولى",
+    "category": "General",
+    "url": "https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8",
+    "icon": "🇲🇦"
+  },
+  {
+    "name": "المغرب الرياضية",
+    "category": "Sports",
+    "url": "https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8",
+    "icon": "⚽"
+  },
+  {
+    "name": "الإمارات",
+    "category": "General",
+    "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8",
+    "icon": "🇦🇪"
+  },
+  {
+    "name": "أبوظبي",
+    "category": "General",
+    "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8",
+    "icon": "🏙️"
+  },
+  {
+    "name": "دبي",
+    "category": "General",
+    "url": "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8",
+    "icon": "🏙️"
+  },
+  {
+    "name": "الكويت",
+    "category": "General",
+    "url": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
+    "icon": "🇰🇼"
+  },
+  {
+    "name": "عُمان",
+    "category": "General",
+    "url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8",
+    "icon": "🇴🇲"
+  },
+  {
+    "name": "قطر",
+    "category": "General",
+    "url": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
+    "icon": "🇶🇦"
+  },
+  {
+    "name": "الجزائر",
+    "category": "General",
+    "url": "http://149.62.177.98:8000/play/a00i",
+    "icon": "🇩🇿"
+  },
+  {
+    "name": "مصر",
+    "category": "General",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ertu1.m3u8",
+    "icon": "🇪🇬"
+  },
+  {
+    "name": "سوريا",
+    "category": "General",
+    "url": "",
+    "icon": "🇸🇾"
+  },
+  {
+    "name": "لبنان",
+    "category": "General",
+    "url": "",
+    "icon": "🇱🇧"
+  },
+  {
+    "name": "فلسطين",
+    "category": "General",
+    "url": "https://pbc.furrera.ps/palestinehd/index.m3u8",
+    "icon": "🇵🇸"
+  },
+  {
+    "name": "اليمن",
+    "category": "General",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/yementv.m3u8",
+    "icon": "🇾🇪"
+  },
+  {
+    "name": "السودان",
+    "category": "General",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8",
+    "icon": "🇸🇩"
+  },
+  {
+    "name": "ليبيا",
+    "category": "General",
+    "url": "https://amsart-live.ercdn.net/salamtv/salamtv.m3u8",
+    "icon": "🇱🇾"
+  },
+  {
+    "name": "تونس",
+    "category": "General",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-HLS8/tunisienationale.m3u8",
+    "icon": "🇹🇳"
+  },
+  {
+    "name": "البحرين",
+    "category": "General",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
+    "icon": "🇧🇭"
+  },
+  {
+    "name": "موريتانيا",
+    "category": "General",
+    "url": "https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8",
+    "icon": "🇲🇷"
+  }
+]
