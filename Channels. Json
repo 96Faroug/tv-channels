@@ -1,11 +1,5 @@
 [
   {
-    "name": "Reuters",
-    "category": "News",
-    "url": "https://www.youtube.com/watch?v=w1C4nM4pB7c",
-    "icon": "📰"
-  },
-  {
     "name": "CBC News",
     "category": "News",
     "url": "https://www.youtube.com/watch?v=w_Ma8oQLmSM",
