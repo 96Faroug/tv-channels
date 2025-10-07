@@ -1,11 +1,5 @@
 [
   {
-    "name": "الإخبارية",
-    "category": "News",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
-    "icon": "📰"
-  },
-  {
     "name": "القرآن الكريم",
     "category": "Religious",
     "url": "https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=11111111",
