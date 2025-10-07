@@ -1,11 +1,5 @@
 [
   {
-    "name": "سكاي نيوز عربية",
-    "category": "News",
-    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
-    "icon": "🌍"
-  },
-  {
     "name": "بي بي سي عربي",
     "category": "News",
     "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
