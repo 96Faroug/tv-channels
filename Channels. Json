@@ -1,11 +1,5 @@
 [
   {
-    "name": "DW عربية",
-    "category": "News",
-    "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
-    "icon": "🇩🇪"
-  },
-  {
     "name": "TRT العربية",
     "category": "News",
     "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
