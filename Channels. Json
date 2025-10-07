@@ -1,11 +1,5 @@
 [
   {
-    "name": "Sky News Live",
-    "category": "News",
-    "url": "https://www.youtube.com/watch?v=9Auq9mYxFEE",
-    "icon": "📡"
-  },
-  {
     "name": "National Geographic",
     "category": "Education",
     "url": "https://www.youtube.com/watch?v=6M9zr_gG7pA",
