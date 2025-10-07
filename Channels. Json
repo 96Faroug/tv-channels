@@ -148,11 +148,5 @@
     "category": "General",
     "url": "https://amsart-live.ercdn.net/salamtv/salamtv.m3u8",
     "icon": "🇱🇾"
-  },
-  {
-    "name": "تونس",
-    "category": "General",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-HLS8/tunisienationale.m3u8",
-    "icon": "🇹🇳"
   }
 ]
