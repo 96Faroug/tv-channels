@@ -1,11 +1,5 @@
 [
   {
-    "name": "بي بي سي عربي",
-    "category": "News",
-    "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
-    "icon": "🇬🇧"
-  },
-  {
     "name": "فرنسا 24",
     "category": "News",
     "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
