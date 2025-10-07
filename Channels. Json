@@ -1,11 +1,5 @@
 [
   {
-    "name": "CGTN Live",
-    "category": "News",
-    "url": "https://www.youtube.com/watch?v=ewvP4ZMzj8A",
-    "icon": "🇨🇳"
-  },
-  {
     "name": "الأولى",
     "category": "General",
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
