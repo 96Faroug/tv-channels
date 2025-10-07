@@ -1,11 +1,5 @@
 [
   {
-    "name": "روتانا خليجية",
-    "category": "Entertainment",
-    "url": "",
-    "icon": "🎵"
-  },
-  {
     "name": "الجزيرة الإخبارية",
     "category": "News",
     "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
