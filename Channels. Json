@@ -1,11 +1,5 @@
 [
   {
-    "name": "القرآن الكريم",
-    "category": "Religious",
-    "url": "https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=11111111",
-    "icon": "📖"
-  },
-  {
     "name": "السنة النبوية",
     "category": "Religious",
     "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
