@@ -310,5 +310,11 @@
     "category": "News",
     "url": "https://vglivessai.akamaized.net/ptnr-yupptv/title-indiadaily24*7/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/index.m3u8?hdnts=st=1760336506~exp=1760358106~acl=!*/ptnr-yupptv/title-indiadaily24*7/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_303_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_303_-1~hmac=9ee509e60bab10cd973b049b372aed9657d11c114ff1af0c765e441c9d5d3525&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=IndiaDaily24X7&ads.language=HIN&ads.user=0",
     "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exuqky.png"
+  },
+  {
+    "name": "TV 100",
+    "category": "News",
+    "url": "https://yuppftalive.akamaized.net/031025/tv100/playlist.m3u8?hdnts=st=1760336585~exp=1760358185~acl=!*/031025/tv100/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_306_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_306_-1~hmac=1bd69595703e7ab2fe262fb2333ef2167054fb1a285adfbda5ec53c96ef39640&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=TV100&ads.language=HIN&ads.user=0",
+    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tv-100.png"
   }
 ]
