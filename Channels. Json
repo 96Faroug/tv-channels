@@ -442,5 +442,11 @@
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-yachtingtv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9c7be81a-7dd6-481e-a010-d306ed060db7/manifest.m3u8?ads.channel=7001&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760339766~exp=1760361366~acl=!*/ptnr-yupptv/title-yachtingtv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9c7be81a-7dd6-481e-a010-d306ed060db7/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_296_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_296_-1~hmac=059004668b0f140f770a9af6210b2496a734813ba71cc5660e8e04178dc7348b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=YachtingTV&ads.language=ENG&ads.user=0",
     "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yachting-tv.png"
+  },
+  {
+    "name": "RIC Plus",
+    "category": "Kids",
+    "url": "https://ssailive.vgcdn.net/ptnr-web/title-BBO/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6e0af97-b4c7-443e-a152-a8caa844c256/main.m3u8?ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=ENT&ads.channel=3529&ads.channel_name=BBO&ads.user=0",
+    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ric-plus.png"
   }
 ]
