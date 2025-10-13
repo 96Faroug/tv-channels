@@ -502,5 +502,11 @@
     "category": "kids",
     "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8",
     "icon": "📺https://royakids.tv/gallery/logo1.png"
+  },
+  {
+    "name": "Roya News",
+    "category": "News",
+    "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/extr/py/royanews.m3u8",
+    "icon": "📺https://royanews.tv/assets/imageshttps://royanews.tv/assets/images/logo.webp/logo.webp"
   }
 ]
