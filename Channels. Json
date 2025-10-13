@@ -226,5 +226,11 @@
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/news1india/playlist.m3u8?ads.channel=6628&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335322~exp=1760356922~acl=!*/080823/news1india/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_129_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_129_-1~hmac=fbd9ef4b7e486782a5583cedb1a03fa2d7acb22a7f560022965196f3bcb6be25&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=News1India&ads.language=HIN&ads.user=0",
     "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eyfyem.png"
+  },
+  {
+    "name": "Khabrain Abhi Tak",
+    "category": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/khabrainabhitak/playlist.m3u8?ads.channel=6427&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335400~exp=1760357000~acl=!*/080823/khabrainabhitak/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_158_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_158_-1~hmac=a86a4dc01d4454082e0b813897ba18cc98c94b9a84d811f9385964dd04c89c08&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=KhabrainAbhiTak&ads.language=HIN&ads.user=0",
+    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qfurxt.png"
   }
 ]
