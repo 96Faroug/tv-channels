@@ -250,5 +250,11 @@
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/indiavoice/playlist.m3u8?ads.channel=6434&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335704~exp=1760357304~acl=!*/080823/indiavoice/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_134_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_134_-1~hmac=df6732ad36913f383b76454f0ad75c8e20dc21f7d43198286ee4e8b0aab27c37&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=IndiaVoice&ads.language=HIN&ads.user=0",
     "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/erinhf.png"
+  },
+  {
+    "name": "Jantantra TV",
+    "category": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/jantantratv/playlist.m3u8?ads.channel=6630&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335773~exp=1760357373~acl=!*/080823/jantantratv/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_127_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_127_-1~hmac=97b899c06eaf9e88e10e40cef83e676506e6509ed08fce019d69d4bd80b2a5c4&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=JantantraTV&ads.language=HIN&ads.user=0",
+    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xdmemv.png"
   }
 ]
