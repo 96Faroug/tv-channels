@@ -490,5 +490,11 @@
     "category": "Sports",
     "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
     "icon": "📺https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png"
+  },
+  {
+    "name": "Roya TV",
+    "category": "General",
+    "url": "https://royatv-live.daioncdn.net/royatv/royatv.m3u8",
+    "icon": "📺https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png"
   }
 ]
