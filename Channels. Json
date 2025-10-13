@@ -292,5 +292,11 @@
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/network10/hdntl=exp=1760422622~acl=%2f*~data=hdntl~hmac=9011388484efe1002a64485e85f17f1769f9d75da5133c1df46586ddeca9d0a2/chunks.m3u8?ads.app_bundle&ads.app_store_url&ads.channel=6428&ads.channel_name=Network10&ads.content_custom_1_param=FAST&ads.content_custom_3_param=YuppFastINT&ads.content_genre=NEWS&ads.content_livestream=1&ads.language=HIN&ads.network_name=yuppfast&ads.user=2",
     "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/network-10.png"
+  },
+  {
+    "name": "Zee Business",
+    "category": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/network10/hdntl=exp=1760422623~acl=%2f*~data=hdntl~hmac=0ce075c8392806e64de481dfdb3b6c3a053a2bc62cea1adc9d354d30be94a2d3/chunks.m3u8?ads.app_bundle&ads.app_store_url&ads.channel=6428&ads.channel_name=Network10&ads.content_custom_1_param=FAST&ads.content_custom_3_param=YuppFastINT&ads.content_genre=NEWS&ads.content_livestream=1&ads.language=HIN&ads.network_name=yuppfast&ads.user=2",
+    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gmdzdx.png"
   }
 ]
