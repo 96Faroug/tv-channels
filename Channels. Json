@@ -136,5 +136,11 @@
     "category": "News",
     "url": "https://vg-ndtvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-685223/main.m3u8?ads.channel=196&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760333637~exp=1760355237~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-685223/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_2_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_2_-1~hmac=cd13896e18c064b1e2a2a6d064f83941965c747fcd01618b66cced54459ae541&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NDTVINDIA&ads.language=HIN&ads.user=0",
     "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png"
+  },
+  {
+    "name": "Good News Today",
+    "category": "News",
+    "url": "https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4dbf75-f525-4a9c-9e96-ef3765f4de32/main.m3u8?ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=ENT&ads.channel=4220&ads.channel_name=BBOClassic&ads.user=0",
+    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/czbixn.png"
   }
 ]
