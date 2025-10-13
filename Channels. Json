@@ -316,5 +316,11 @@
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/031025/tv100/playlist.m3u8?hdnts=st=1760336585~exp=1760358185~acl=!*/031025/tv100/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_306_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_306_-1~hmac=1bd69595703e7ab2fe262fb2333ef2167054fb1a285adfbda5ec53c96ef39640&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=TV100&ads.language=HIN&ads.user=0",
     "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tv-100.png"
+  },
+  {
+    "name": "LIVE Times",
+    "category": "News",
+    "url": "https://yuppftalive.akamaized.net/031025/livetimes/playlist.m3u8?hdnts=st=1760336659~exp=1760358259~acl=!*/031025/livetimes/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_307_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_307_-1~hmac=49b18cdc71c9ae316fd6bb0d17cc56b127ec7874cbe3001c8a5920a71693f66e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=LIVETimes&ads.language=HIN&ads.user=0",
+    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yausbw.png"
   }
 ]
