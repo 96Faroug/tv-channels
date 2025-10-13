@@ -105,234 +105,234 @@
     "name": "Aaj Tak",
     "category": "News",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/14d29403-1c64-4a45-ae7f-b93dc95acf17/3.m3u8",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png"
   },
   {
     "name": "Republic Bharat",
     "category": "News",
     "url": "https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-561573/main.m3u8?ads.channel=4923&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760333205~exp=1760354805~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-561573/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_20_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_20_-1~hmac=a82139b53bb6f293d82d53f0107dff5b121e263e1796c8de10aa291b06ae3330&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=RepublicBharat&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lnnuqu.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lnnuqu.png"
   },
   {
     "name": "India TV",
     "category": "News",
     "url": "https://vg-indiatvyupp.akamaized.net/ptnr-yupptv/title-Indiatvmi/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb243fa-9ec5-4045-9d1d-0326debcace6/main.m3u8?ads.channel=3798&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760333301~exp=1760354901~acl=!*/ptnr-yupptv/title-Indiatvmi/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb243fa-9ec5-4045-9d1d-0326debcace6/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_231_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_231_-1~hmac=89ee711326274f6b59042dff8f69f6607367095435befe2c5fb4949f9ebaa0cd&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=IndiaTV&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/india-tv.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/india-tv.png"
   },
   {
     "name": "ABP News",
     "category": "News",
     "url": "https://abplive.vgcdn.net/ptnr-yupptv/title-ABP_News_yupp/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1e0dff06-24fb-4d91-9d57-fb6e918834e2/master.m3u8?ads.channel=225&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760333424~exp=1760355024~acl=!*/ptnr-yupptv/title-ABP_News_yupp/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1e0dff06-24fb-4d91-9d57-fb6e918834e2/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_225_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_225_-1~hmac=638b5d7707e5f77d3991381246f777cc95cc9be1a259e38de831513cef0390f8&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ABPNews&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mphzpu.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mphzpu.png"
   },
   {
     "name": "Zee News",
     "category": "News",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8?ads.channel=1501&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760333561~exp=1760355161~acl=!*/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_13_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_13_-1~hmac=2221f08c9bb0bd57c9f674edc1d944d72da72b3d3b7cc81a90377b8001c9b16e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeNews&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png"
   },
   {
     "name": "NDTV INDIA",
     "category": "News",
     "url": "https://vg-ndtvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-685223/main.m3u8?ads.channel=196&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760333637~exp=1760355237~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-685223/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_2_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_2_-1~hmac=cd13896e18c064b1e2a2a6d064f83941965c747fcd01618b66cced54459ae541&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NDTVINDIA&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png"
   },
   {
     "name": "Good News Today",
     "category": "News",
     "url": "https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4dbf75-f525-4a9c-9e96-ef3765f4de32/main.m3u8?ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=ENT&ads.channel=4220&ads.channel_name=BBOClassic&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/czbixn.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/czbixn.png"
   },
   {
     "name": "Zee Hindustan",
     "category": "News",
     "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8?hdnts=st=1760333806~exp=1760355406~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_250_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_250_-1~hmac=dbce83fd6d70ac956260e3b5d920be909df9c27a2041d9b94b2fba334b64bf35&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=GoodNewsToday&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sdgosh.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sdgosh.png"
   },
   {
     "name": "Hindi Khabar",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/hindikhabar/playlist.m3u8?ads.channel=6425&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760333966~exp=1760355566~acl=!*/080823/hindikhabar/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_160_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_160_-1~hmac=b7170369ba099b99906c2005544c01d84bb2dc82406a98a4113020d32b058dd3&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=HindiKhabar&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindi-khabar.pnghttps://yuppftalive.akamaized.net/080823/hindikhabar/playlist.m3u8?ads.channel=6425&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760333966~exp=1760355566~acl=!*/080823/hindikhabar/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_160_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_160_-1~hmac=b7170369ba099b99906c2005544c01d84bb2dc82406a98a4113020d32b058dd3&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=HindiKhabar&ads.lhttps://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindi-khabar.pnganguage=HIN&ads.user=0"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindi-khabar.pnghttps://yuppftalive.akamaized.net/080823/hindikhabar/playlist.m3u8?ads.channel=6425&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760333966~exp=1760355566~acl=!*/080823/hindikhabar/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_160_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_160_-1~hmac=b7170369ba099b99906c2005544c01d84bb2dc82406a98a4113020d32b058dd3&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=HindiKhabar&ads.lhttps://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindi-khabar.pnganguage=HIN&ads.user=0"
   },
   {
     "name": "Sudarshan News",
     "category": "News",
     "url": "https://yuppparoriglin.akamaized.net/181224/smil:sudarshantv.smil/playlist.m3u8?ads.channel=599&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760334070~exp=1760355670~acl=!*/181224/smil:sudarshantv.smil/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_138_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_138_-1~hmac=94d22c7993661e0d08780f3aa130c013c93498b72f3d593ee955dfbf758afe1a&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=SudarshanNews&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sudarshan-news.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sudarshan-news.png"
   },
   {
     "name": "NDTV MP",
     "category": "News",
     "url": "https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/main.m3u8?ads.channel=6577&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760334177~exp=1760355777~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_38_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_38_-1~hmac=ec30ef7629c7736c842c01cebe793f1e22f0f125309266ff678081d9e76ecb9b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NDTVMP&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zhhvxq.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zhhvxq.png"
   },
   {
     "name": "Zee Bihar Jharkhand",
     "category": "News",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8?ads.channel=6348&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760334263~exp=1760355863~acl=!*/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_30_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_30_-1~hmac=01d495697e8d4a28b71584bd5259e046e70ca04a8d2953482800cbc51eca7dd3&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeBiharJharkhand&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zjjkih.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zjjkih.png"
   },
   {
     "name": "Zee Delhi NCR Haryana",
     "category": "News",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8?ads.channel=6349&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760334339~exp=1760355939~acl=!*/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_31_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_31_-1~hmac=4c6b1d594fbe0e0dd4bbc4f352c0e68acbbda7b29b8c474156d6ce0d4cbc8928&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeDelhiNCRHaryana&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yiuolu.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yiuolu.png"
   },
   {
     "name": "News 11 Bharat",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/news11bharat/playlist.m3u8?ads.channel=6424&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760334450~exp=1760356050~acl=!*/080823/news11bharat/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_161_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_161_-1~hmac=402126d1e36b9659a9830ea0fbbb2b9b7f7c37e29fcd4a9a05d6fa367a4f2c3a&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=News11Bharat&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-11-bharat.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-11-bharat.png"
   },
   {
     "name": "Zee Madhya Pradesh Chhattisgar",
     "category": "News",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8?ads.channel=6346&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760334622~exp=1760356222~acl=!*/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_28_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_28_-1~hmac=07d10fe4597829e4be9c1706bc39dbdffae9e7e8ae3b62e2cbfcf78429ffb0a1&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeMadhyaPradeshChhattisgarh&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nniyqn.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nniyqn.png"
   },
   {
     "name": "NDTV Rajasthan",
     "category": "News",
     "url": "https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-753641/main.m3u8?ads.channel=6578&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760334729~exp=1760356329~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-753641/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_39_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_39_-1~hmac=d3c6ad9aca073c82cbe68deb4c659f99b2c6c8453c9276534a09faf24a231579&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NDTVRajasthan&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehlmdz.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehlmdz.png"
   },
   {
     "name": "Zee UP UK",
     "category": "News",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeeupuk/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a8c57b70-538f-49ae-af12-2fc2acaa4ff1/main.m3u8?ads.channel=6347&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760334845~exp=1760356445~acl=!*/ptnr-yupptv/title-zeeupuk/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a8c57b70-538f-49ae-af12-2fc2acaa4ff1/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_29_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_29_-1~hmac=17448b413c6327ba1e724561a25bacfb23263d9c5b2b3d5ef71a4b30c536d42e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeUPUK&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipyfdr.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipyfdr.png"
   },
   {
     "name": "Zee Rajasthan News",
     "category": "News",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8?ads.channel=6344&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760334950~exp=1760356550~acl=!*/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_26_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_26_-1~hmac=4792ea48913839f4decde28c18ca81a37a8c12592c89ac03a945060347a0f574&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeRajasthanNews&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kvtdmj.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kvtdmj.png"
   },
   {
     "name": "INH 24X7",
     "category": "News",
     "url": "https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4dbf75-f525-4a9c-9e96-ef3765f4de32/main.m3u8?ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=ENT&ads.channel=4220&ads.channel_name=BBOClassic&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gbrcig.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gbrcig.png"
   },
   {
     "name": "Total TV",
     "category": "General",
     "url": "https://yuppftalive.akamaized.net/080823/inh24x7/hdntl=exp=1760421420~acl=%2f*~data=hdntl~hmac=b8167a9469f7de07160e5d122c673ae496b63e8db70f4c83e9429a4d49b290cd/chunks.m3u8?ads.app_bundle&ads.app_store_url&ads.channel=6430&ads.channel_name=INH24X7&ads.content_custom_1_param=FAST&ads.content_custom_3_param=YuppFastIndia&ads.content_genre=NEWS&ads.content_livestream=1&ads.language=HIN&ads.network_name=yuppfast&ads.user=2",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/total-tv.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/total-tv.png"
   },
   {
     "name": "News 1 India",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/news1india/playlist.m3u8?ads.channel=6628&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335322~exp=1760356922~acl=!*/080823/news1india/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_129_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_129_-1~hmac=fbd9ef4b7e486782a5583cedb1a03fa2d7acb22a7f560022965196f3bcb6be25&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=News1India&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eyfyem.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eyfyem.png"
   },
   {
     "name": "Khabrain Abhi Tak",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/khabrainabhitak/playlist.m3u8?ads.channel=6427&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335400~exp=1760357000~acl=!*/080823/khabrainabhitak/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_158_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_158_-1~hmac=a86a4dc01d4454082e0b813897ba18cc98c94b9a84d811f9385964dd04c89c08&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=KhabrainAbhiTak&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qfurxt.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qfurxt.png"
   },
   {
     "name": "Bharat Samachar",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/bharatsamachar/playlist.m3u8?ads.channel=6426&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335526~exp=1760357126~acl=!*/080823/bharatsamachar/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_159_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_159_-1~hmac=99c71c111214774952af6717a2df18066e133ea9329f65c3ff702cab758314ee&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=BharatSamachar&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channhttps://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.pngel/logos/edjdac.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channhttps://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.pngel/logos/edjdac.png"
   },
   {
     "name": "Swaraj Express SMBC",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/swarajexpresssmbc/playlist.m3u8?ads.channel=6435&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335599~exp=1760357199~acl=!*/080823/swarajexpresssmbc/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_151_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_151_-1~hmac=8393b51be445143e9651a05d72ff5d036bbb1d4e0f1bb1839da98bfe2c73c759&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=SwarajExpressSMBC&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtjzv.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtjzv.png"
   },
   {
     "name": "India Voice",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/indiavoice/playlist.m3u8?ads.channel=6434&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335704~exp=1760357304~acl=!*/080823/indiavoice/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_134_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_134_-1~hmac=df6732ad36913f383b76454f0ad75c8e20dc21f7d43198286ee4e8b0aab27c37&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=IndiaVoice&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/erinhf.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/erinhf.png"
   },
   {
     "name": "Jantantra TV",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/jantantratv/playlist.m3u8?ads.channel=6630&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335773~exp=1760357373~acl=!*/080823/jantantratv/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_127_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_127_-1~hmac=97b899c06eaf9e88e10e40cef83e676506e6509ed08fce019d69d4bd80b2a5c4&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=JantantraTV&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xdmemv.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xdmemv.png"
   },
   {
     "name": "Jan TV",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/jantv/playlist.m3u8?ads.channel=6641&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335842~exp=1760357442~acl=!*/080823/jantv/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_120_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_120_-1~hmac=c3945d6aad3c1baa6ed6c936865cb1799ab0aae5771a86dd516c7a2dadbb25be&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=JanTV&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yjsmtt.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yjsmtt.png"
   },
   {
     "name": "APN News",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/apnnews/playlist.m3u8?ads.channel=6433&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335904~exp=1760357504~acl=!*/080823/apnnews/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_152_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_152_-1~hmac=5ff4ca919c5c4617eb70ded146226249eb20a2c59d764ccac91ae4ad483e96b2&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=APNNews&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chfztu.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chfztu.png"
   },
   {
     "name": "Bansal News",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/bansalnews/playlist.m3u8?ads.channel=6439&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335965~exp=1760357565~acl=!*/080823/bansalnews/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_135_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_135_-1~hmac=c5426b8bb1d180cb332bdfcd9e7386e9a16c3cb20b44caf55c8ebcd46e89cd5d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=BansalNews&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png"
   },
   {
     "name": "Kashish News",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/kashishnews/playlist.m3u8?ads.content_custom_3_param=YuppFastINT&hdnts=st=1760336054~exp=1760357654~acl=!*/080823/kashishnews/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_164_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_164_-1~hmac=c88cd79f0f4c48435d00e6731418dc2810b4a11f1d8304097a159e1c9c53c0e7&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=KashishNews&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kashish-news.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kashish-news.png"
   },
   {
     "name": "A1 TV",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/a1tv/playlist.m3u8?ads.channel=6642&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760336124~exp=1760357724~acl=!*/080823/a1tv/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_118_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_118_-1~hmac=298df342576c009cebfe7446c8459cec376f9cd50dbf8f12843650c58c0f8506&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=A1TV&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/a1-tv.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/a1-tv.png"
   },
   {
     "name": "Network 10",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/network10/hdntl=exp=1760422622~acl=%2f*~data=hdntl~hmac=9011388484efe1002a64485e85f17f1769f9d75da5133c1df46586ddeca9d0a2/chunks.m3u8?ads.app_bundle&ads.app_store_url&ads.channel=6428&ads.channel_name=Network10&ads.content_custom_1_param=FAST&ads.content_custom_3_param=YuppFastINT&ads.content_genre=NEWS&ads.content_livestream=1&ads.language=HIN&ads.network_name=yuppfast&ads.user=2",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/network-10.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/network-10.png"
   },
   {
     "name": "Zee Business",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/network10/hdntl=exp=1760422623~acl=%2f*~data=hdntl~hmac=0ce075c8392806e64de481dfdb3b6c3a053a2bc62cea1adc9d354d30be94a2d3/chunks.m3u8?ads.app_bundle&ads.app_store_url&ads.channel=6428&ads.channel_name=Network10&ads.content_custom_1_param=FAST&ads.content_custom_3_param=YuppFastINT&ads.content_genre=NEWS&ads.content_livestream=1&ads.language=HIN&ads.network_name=yuppfast&ads.user=2",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gmdzdx.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gmdzdx.png"
   },
   {
     "name": "Bharat 24",
     "category": "News",
     "url": "https://vglivessai.akamaized.net/ptnr-yupptv/title-Bharat24news/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0039890-a9a4-43ac-8561-ca90871c14fc/index.m3u8?ads.channel=7095&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1760336345~exp=1760357945~acl=!*/ptnr-yupptv/title-Bharat24news/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0039890-a9a4-43ac-8561-ca90871c14fc/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_316_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_316_-1~hmac=fb40acf4984ce99f5323f5fd4a32c70d628ea2ea372a4e82960e4a3f372968e5&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=Bharat24&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-24.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-24.png"
   },
   {
     "name": "India Daily 24X7",
     "category": "News",
     "url": "https://vglivessai.akamaized.net/ptnr-yupptv/title-indiadaily24*7/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/index.m3u8?hdnts=st=1760336506~exp=1760358106~acl=!*/ptnr-yupptv/title-indiadaily24*7/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_303_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_303_-1~hmac=9ee509e60bab10cd973b049b372aed9657d11c114ff1af0c765e441c9d5d3525&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=IndiaDaily24X7&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exuqky.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exuqky.png"
   },
   {
     "name": "TV 100",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/031025/tv100/playlist.m3u8?hdnts=st=1760336585~exp=1760358185~acl=!*/031025/tv100/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_306_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_306_-1~hmac=1bd69595703e7ab2fe262fb2333ef2167054fb1a285adfbda5ec53c96ef39640&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=TV100&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tv-100.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tv-100.png"
   },
   {
     "name": "LIVE Times",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/031025/livetimes/playlist.m3u8?hdnts=st=1760336659~exp=1760358259~acl=!*/031025/livetimes/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_307_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_307_-1~hmac=49b18cdc71c9ae316fd6bb0d17cc56b127ec7874cbe3001c8a5920a71693f66e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=LIVETimes&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yausbw.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yausbw.png"
   },
   {
     "name": "Khabar Fast",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/031025/livetimes/hdntl=exp=1760423059~acl=%2f*~data=hdntl~hmac=3b621ccd1df9771f1bab550a79d20707a65186e839717cccb68b9a8e809b3e96/chunks.m3u8?ads.app_bundle&ads.app_store_url&ads.channel_name=LIVETimes&ads.content_genre=NEWS&ads.content_livestream=1&ads.language=HIN&ads.network_name=yuppfast&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wultnc.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wultnc.png"
   },
   {
     "name": "Aryan TV National",
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/031025/aryantvnational/playlist.m3u8?hdnts=st=1760336774~exp=1760358374~acl=!*/031025/aryantvnational/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_309_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_309_-1~hmac=b6ef6251e4e406316a183f57902782aeac653757f303f453e0f2bf9cc8058422&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=AryanTVNational&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aryan-tv-national.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aryan-tv-national.png"
   }
 ]
