@@ -268,5 +268,11 @@
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/apnnews/playlist.m3u8?ads.channel=6433&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335904~exp=1760357504~acl=!*/080823/apnnews/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_152_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_152_-1~hmac=5ff4ca919c5c4617eb70ded146226249eb20a2c59d764ccac91ae4ad483e96b2&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=APNNews&ads.language=HIN&ads.user=0",
     "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chfztu.png"
+  },
+  {
+    "name": "Bansal News",
+    "category": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/bansalnews/playlist.m3u8?ads.channel=6439&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335965~exp=1760357565~acl=!*/080823/bansalnews/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_135_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_135_-1~hmac=c5426b8bb1d180cb332bdfcd9e7386e9a16c3cb20b44caf55c8ebcd46e89cd5d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=BansalNews&ads.language=HIN&ads.user=0",
+    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png"
   }
 ]
