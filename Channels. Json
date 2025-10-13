@@ -232,5 +232,11 @@
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/khabrainabhitak/playlist.m3u8?ads.channel=6427&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335400~exp=1760357000~acl=!*/080823/khabrainabhitak/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_158_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_158_-1~hmac=a86a4dc01d4454082e0b813897ba18cc98c94b9a84d811f9385964dd04c89c08&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=KhabrainAbhiTak&ads.language=HIN&ads.user=0",
     "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qfurxt.png"
+  },
+  {
+    "name": "Bharat Samachar",
+    "category": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/bharatsamachar/playlist.m3u8?ads.channel=6426&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335526~exp=1760357126~acl=!*/080823/bharatsamachar/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_159_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_159_-1~hmac=99c71c111214774952af6717a2df18066e133ea9329f65c3ff702cab758314ee&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=BharatSamachar&ads.language=HIN&ads.user=0",
+    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channhttps://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.pngel/logos/edjdac.png"
   }
 ]
