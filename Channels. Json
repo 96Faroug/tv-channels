@@ -142,5 +142,11 @@
     "category": "News",
     "url": "https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4dbf75-f525-4a9c-9e96-ef3765f4de32/main.m3u8?ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=ENT&ads.channel=4220&ads.channel_name=BBOClassic&ads.user=0",
     "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/czbixn.png"
+  },
+  {
+    "name": "Zee Hindustan",
+    "category": "News",
+    "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8?hdnts=st=1760333806~exp=1760355406~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_250_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_250_-1~hmac=dbce83fd6d70ac956260e3b5d920be909df9c27a2041d9b94b2fba334b64bf35&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=GoodNewsToday&ads.language=HIN&ads.user=0",
+    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sdgosh.png"
   }
 ]
