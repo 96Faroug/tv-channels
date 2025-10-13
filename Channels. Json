@@ -322,5 +322,11 @@
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/031025/livetimes/playlist.m3u8?hdnts=st=1760336659~exp=1760358259~acl=!*/031025/livetimes/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_307_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_307_-1~hmac=49b18cdc71c9ae316fd6bb0d17cc56b127ec7874cbe3001c8a5920a71693f66e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=LIVETimes&ads.language=HIN&ads.user=0",
     "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yausbw.png"
+  },
+  {
+    "name": "Khabar Fast",
+    "category": "News",
+    "url": "https://yuppftalive.akamaized.net/031025/livetimes/hdntl=exp=1760423059~acl=%2f*~data=hdntl~hmac=3b621ccd1df9771f1bab550a79d20707a65186e839717cccb68b9a8e809b3e96/chunks.m3u8?ads.app_bundle&ads.app_store_url&ads.channel_name=LIVETimes&ads.content_genre=NEWS&ads.content_livestream=1&ads.language=HIN&ads.network_name=yuppfast&ads.user=0",
+    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wultnc.png"
   }
 ]
