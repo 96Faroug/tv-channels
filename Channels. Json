@@ -339,163 +339,163 @@
     "name": "Fight TV",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8?ads.channel=6595&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760338206~exp=1760359806~acl=!*/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_68_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_68_-1~hmac=c4ba732b38a15f3dc17feefa418f21846783326a77e8e6575b761ace749f9d8c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=FightTV&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.png"
   },
   {
     "name": "Kozoom",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8?ads.channel=6595&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760338267~exp=1760359867~acl=!*/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_68_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_68_-1~hmac=8bb7f4addfe445b46bcabb8f3e30e37164a049ed5b10cabe909a3a2ca5b1f867&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=FightTV&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sqjspw.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sqjspw.png"
   },
   {
     "name": "Xtrem sports",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8?ads.content_custom_3_param=YuppFastINT&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=Xtremsports&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xtrem-sports.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xtrem-sports.png"
   },
   {
     "name": "Sport Fishing TV",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-SPORT-FISHING-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8?ads.channel=6600&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760338461~exp=1760360061~acl=!*/ptnr-yupptv/title-SPORT-FISHING-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_76_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_76_-1~hmac=554251a1637728d684877df4a9e739062158333b847f965ad1149db89f7035ab&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=SportFishingTV&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sport-fishing-tv.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sport-fishing-tv.png"
   },
   {
     "name": "America Boating Channel",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-AMERICAS-BOATING-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8?ads.channel=6585&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760338602~exp=1760360202~acl=!*/ptnr-yupptv/title-AMERICAS-BOATING-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_42_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_42_-1~hmac=09e7554d8427c0e1d72e9c4d7706dee757bc64a3a5ac4357b9db1a16e5923fd4&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=AmericaBoatingChannel&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwfaja.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwfaja.png"
   },
   {
     "name": "The Chukker Channel",
     "category": "sports",
     "url": "https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4dbf75-f525-4a9c-9e96-ef3765f4de32/main.m3u8?ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=ENT&ads.channel=4220&ads.channel_name=BBOClassic&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rrkxqp.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rrkxqp.png"
   },
   {
     "name": "ChronoTV",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-CHRONO-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8?ads.channel=6592&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760338825~exp=1760360425~acl=!*/ptnr-yupptv/title-CHRONO-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_49_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_49_-1~hmac=187fff18ad3d4086a9f8b57ab42d0d39d9a95a371187d12add8d8fc1cca49a46&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=ChronoTV&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/imwzux.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/imwzux.png"
   },
   {
     "name": "ITSF",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-ITSF-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8?ads.channel=6584&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760338892~exp=1760360492~acl=!*/ptnr-yupptv/title-ITSF-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_79_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_79_-1~hmac=7955e2e0afa28244220e25a4185568fe8cba0ac8b4fd544bd6bf04354398524c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=ITSF&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/itsf.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/itsf.png"
   },
   {
     "name": "MMA TV",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-MMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/playlist.m3u8?ads.channel=6949&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760339017~exp=1760360617~acl=!*/ptnr-yupptv/title-MMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_272_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_272_-1~hmac=0572de78c1e5237c1bff7504850b8ea6c1227ed745f8f0a8d3bc2a21a5bdf3bc&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=MMATV&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lvwqlf.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lvwqlf.png"
   },
   {
     "name": "MOTOR RACING",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-motorracing_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/master.m3u8?ads.channel=6950&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760339090~exp=1760360690~acl=!*/ptnr-yupptv/title-motorracing_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_273_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_273_-1~hmac=3ddcb778f2d57b7e452a6d3cc6d1a93a0eb3f7e3435a12c50514778ecaf83223&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=MOTORRACING&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cgrggj.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cgrggj.png"
   },
   {
     "name": "ACE TV",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-ACE_TV_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8f7ca5bc-6bd2-4dc4-98d0-9ff71eedf477/master.m3u8?ads.channel=6933&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760339174~exp=1760360774~acl=!*/ptnr-yupptv/title-ACE_TV_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8f7ca5bc-6bd2-4dc4-98d0-9ff71eedf477/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_253_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_253_-1~hmac=9c629dd581a919a438ab05517b3aab5b9d5aa717543cd46233b7880202efcbd1&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=ACETV&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/whjmwm.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/whjmwm.png"
   },
   {
     "name": "Cricket Gold",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8?ads.channel=6995&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760339342~exp=1760360942~acl=!*/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_290_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_290_-1~hmac=3ad5492bf4fb1c0d9719f049773e560337848b6a5684de68738377a4fd413b1b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=CricketGold&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cricket-gold.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cricket-gold.png"
   },
   {
     "name": "Adventure Sports TV",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/a8fd1fc3-3bdf-455c-824f-122160c4131d/3.m3u8",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/adventure-sports-tv.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/adventure-sports-tv.png"
   },
   {
     "name": "Drive+ Speed",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-Drive_Speed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d00c9b93-97ca-488c-9072-265d0079fae6/manifest.m3u8?ads.channel=6998&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760339471~exp=1760361071~acl=!*/ptnr-yupptv/title-Drive_Speed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d00c9b93-97ca-488c-9072-265d0079fae6/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_293_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_293_-1~hmac=e13c69644df52fa80598b79cf1746edb495376b172c64aae36dc4d947b627805&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=Drive+Speed&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-speed.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-speed.png"
   },
   {
     "name": "Hunt Fish TV",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-Hunt_Fish_TV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7545a786-3458-4aaf-ad71-db896a1c4b83/master.m3u8?ads.channel=6999&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760339525~exp=1760361125~acl=!*/ptnr-yupptv/title-Hunt_Fish_TV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7545a786-3458-4aaf-ad71-db896a1c4b83/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_294_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_294_-1~hmac=09487645e4dfa82ec4864e696fe233d6dc28c7f5cc65148fb52ecbecbce718fe&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=HuntFishTV&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hunt-fish-tv.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hunt-fish-tv.png"
   },
   {
     "name": "Nautical Channel",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-Nautical_TV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/index.m3u8?ads.channel=7000&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760339604~exp=1760361204~acl=!*/ptnr-yupptv/title-Nautical_TV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_295_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_295_-1~hmac=c2f1bb7d05d7cba6ef0ad4e3e08a41233b87ecd32a6b3da18b13a4dee4003c88&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=NauticalChannel&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nautical-channel.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nautical-channel.png"
   },
   {
     "name": "Absinthe TV",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-absinthetv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/254b2fef-a3dd-4a6d-af18-38711e02e31c/manifest.m3u8?ads.channel=7002&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760339699~exp=1760361299~acl=!*/ptnr-yupptv/title-absinthetv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/254b2fef-a3dd-4a6d-af18-38711e02e31c/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_298_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_298_-1~hmac=61812b92af936479802826d7e492d2679f43a022920e96672c51ae80ae59f6ec&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=AbsintheTV&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/badjix.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/badjix.png"
   },
   {
     "name": "Yachting TV",
     "category": "sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-yachtingtv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9c7be81a-7dd6-481e-a010-d306ed060db7/manifest.m3u8?ads.channel=7001&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760339766~exp=1760361366~acl=!*/ptnr-yupptv/title-yachtingtv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9c7be81a-7dd6-481e-a010-d306ed060db7/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_296_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_296_-1~hmac=059004668b0f140f770a9af6210b2496a734813ba71cc5660e8e04178dc7348b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=YachtingTV&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yachting-tv.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yachting-tv.png"
   },
   {
     "name": "RIC Plus",
     "category": "Kids",
     "url": "https://ssailive.vgcdn.net/ptnr-web/title-BBO/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6e0af97-b4c7-443e-a152-a8caa844c256/main.m3u8?ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=ENT&ads.channel=3529&ads.channel_name=BBO&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ric-plus.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ric-plus.png"
   },
   {
     "name": "Kiddo",
     "category": "Kids",
     "url": "https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4dbf75-f525-4a9c-9e96-ef3765f4de32/main.m3u8?ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=ENT&ads.channel=4220&ads.channel_name=BBOClassic&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png"
   },
   {
     "name": "Cartoon TV Classics",
     "category": "Kids",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?ads.channel=6591&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760340272~exp=1760361872~acl=!*/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_48_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_48_-1~hmac=8e0046fa56b5d9e9ba935c245bea0901c8270076c975a1ab0d7c429b8ec59ab0&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=KIDS&ads.channel_name=CartoonTVClassics&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png"
   },
   {
     "name": "Green Gold TV",
     "category": "Kids",
     "url": "https://greengold-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af835e36-30e1-426f-b0d4-7383a330d69c/main.m3u8?hdnts=st=1760340361~exp=1760361961~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af835e36-30e1-426f-b0d4-7383a330d69c/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_281_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_281_-1~hmac=db1207f549d481351e86cd926f726dc69771de10729fe646d585aa8c133c6feb&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=KIDS&ads.channel_name=GreenGoldTV&ads.language=HIN&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv.png"
   },
   {
     "name": "JUST FOR LAUGHS GAGS",
     "category": "Entertainment",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8?ads.channel=6956&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760341002~exp=1760362602~acl=!*/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_279_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_94.202.83.153_yuppfast_2_channel_279_-1~hmac=3a26da7796254b8c90284ed9ab2d3f980329c82bc78023f8db39a7b22eeb406e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=JUSTFORLAUGHSGAGS&ads.language=ENG&ads.user=0",
-    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/inxhvg.png"
+    "icon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/inxhvg.png"
   },
   {
     "name": "Real Madrid TV",
     "category": "sports",
     "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-    "icon": "📺https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg/revision/latest/scale-to-width-down/2362?cb=20191224175627"
+    "icon": "https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg/revision/latest/scale-to-width-down/2362?cb=20191224175627"
   },
   {
     "name": "Jordanian",
     "category": "General",
     "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
-    "icon": "📺https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png"
+    "icon": "https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png"
   },
   {
     "name": "Jordanian Sports",
     "category": "Sports",
     "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
-    "icon": "📺https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png"
+    "icon": "https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png"
   },
   {
     "name": "Roya TV",
     "category": "General",
     "url": "https://royatv-live.daioncdn.net/royatv/royatv.m3u8",
-    "icon": "📺https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png"
+    "icon": "https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png"
   },
   {
     "name": "Roya kids",
