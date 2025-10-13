@@ -238,5 +238,11 @@
     "category": "News",
     "url": "https://yuppftalive.akamaized.net/080823/bharatsamachar/playlist.m3u8?ads.channel=6426&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335526~exp=1760357126~acl=!*/080823/bharatsamachar/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_159_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_159_-1~hmac=99c71c111214774952af6717a2df18066e133ea9329f65c3ff702cab758314ee&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=BharatSamachar&ads.language=HIN&ads.user=0",
     "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channhttps://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.pngel/logos/edjdac.png"
+  },
+  {
+    "name": "Swaraj Express SMBC",
+    "category": "News",
+    "url": "https://yuppftalive.akamaized.net/080823/swarajexpresssmbc/playlist.m3u8?ads.channel=6435&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1760335599~exp=1760357199~acl=!*/080823/swarajexpresssmbc/*!/payload/yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_151_-1/*~data=yupptvott_61_-1_92239b5e-ff1a-3607-ec48-545f5f7ad9b4_AE_92.99.88.233_yuppfast_2_channel_151_-1~hmac=8393b51be445143e9651a05d72ff5d036bbb1d4e0f1bb1839da98bfe2c73c759&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=SwarajExpressSMBC&ads.language=HIN&ads.user=0",
+    "icon": "📺https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtjzv.png"
   }
 ]
